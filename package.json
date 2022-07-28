@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://sergeylobanok.github.io/trucks",
   "scripts": {
-    "script": "gh-pages -d"
+    "script": "gh-pages"
   },
   "keywords": [],
   "author": "",
